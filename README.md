@@ -10,6 +10,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   
 </p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-kauan%20azevedo-4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-azevedo/)](https://www.linkedin.com/in/edivaldo-ferreira-de-souza-junior/) 
-[![Gmail Badge](https://img.shields.io/badge/-ediarts7@gmail.com-4169E1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ediarts@gmail.com)](mailto:ediarts@gmail.com)
