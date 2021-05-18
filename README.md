@@ -1,7 +1,7 @@
 <h2> Dev Front End </h2>
 
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Linguagens</h3>
 <p align="left"> 
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
