@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Olá me chamo, Kauan.
+## Olá, me chamo Kauan Sotério de Azevedo.
 <p align="left"> 
   sou um <strong>Desenvolvedor Web</strong>,
   estudando tanto backend quanto frontend.
