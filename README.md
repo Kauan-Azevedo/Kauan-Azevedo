@@ -3,7 +3,7 @@
 ## Olá, me chamo Kauan Sotério de Azevedo.
 <p align="left"> 
   sou um <strong>Desenvolvedor Web</strong>,
-  estudando tanto backend quanto frontend.
+  estudando frontend, backend e diversas outras tecnologias.
 </p>
 
   ## Tecnologias
